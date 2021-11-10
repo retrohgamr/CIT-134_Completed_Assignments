@@ -110,7 +110,6 @@ namespace Chapter_7_Excercise_1
             this.scoreBox.Size = new System.Drawing.Size(116, 15);
             this.scoreBox.TabIndex = 6;
             this.scoreBox.Text = "  Score:    __ / 20";
-            this.scoreBox.TextChanged += new System.EventHandler(this.scoreBox_TextChanged);
             // 
             // Form1
             // 

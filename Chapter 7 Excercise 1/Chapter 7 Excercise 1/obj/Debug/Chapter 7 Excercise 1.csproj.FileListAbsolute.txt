@@ -48,3 +48,13 @@ E:\CIT 134\Chapter 7 Excercise 1-4\Chapter 7 Excercise 1\Chapter 7 Excercise 1\o
 E:\CIT 134\Chapter 7 Excercise 1-4\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter 7 Excercise 1.csproj.CoreCompileInputs.cache
 E:\CIT 134\Chapter 7 Excercise 1-4\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter 7 Excercise 1.exe
 E:\CIT 134\Chapter 7 Excercise 1-4\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter 7 Excercise 1.pdb
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\bin\Debug\Chapter 7 Excercise 1.exe.config
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\bin\Debug\Chapter 7 Excercise 1.exe
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\bin\Debug\Chapter 7 Excercise 1.pdb
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter 7 Excercise 1.csproj.AssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter_7_Excercise_1.Form1.resources
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter_7_Excercise_1.Properties.Resources.resources
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter 7 Excercise 1.csproj.GenerateResource.cache
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter 7 Excercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter 7 Excercise 1.exe
+C:\Users\Jacob\Documents\GitHub\CIT-134_Completed_Assignments\Chapter 7 Excercise 1\Chapter 7 Excercise 1\obj\Debug\Chapter 7 Excercise 1.pdb

@@ -1,4 +1,4 @@
-﻿//      Jacob Slaughter
+﻿//      retrohGamr
 //      11/9/21
 //      Chapter 7 Excercise 1
 //
@@ -28,15 +28,12 @@ namespace Chapter_7_Excercise_1
         {
             InitializeComponent();
             isQuizGraded = false;
-            //  Prepare array to import answers
             studentAns = new string[20];
-            //  Set answer key
             answerKey = new string[]{
                 "B", "D", "A", "A", "C", "A", "B", "A", "C", "D",
                 "B", "C", "D", "A", "D", "C", "C", "B", "D", "A"
             };
         }
-
         //
         //  Import Button
         private void importBtn_Click(object sender, EventArgs e)
@@ -76,9 +73,9 @@ namespace Chapter_7_Excercise_1
                         string studentAnswer = studentAns[i];
                         string correctAnswer = answerKey[i];
 
-                        //  Check each item in student answer and compare to answer key
                         if (studentAns[i].ToString() != answerKey[i].ToString())
                         {
+                            
                             studentAns[i] = $"{studentAnswer}   " +
                                 $"Incorrect.  Correct answer is {correctAnswer}";
                             listBox1.Items.Add(studentAns[i]);
@@ -109,7 +106,6 @@ namespace Chapter_7_Excercise_1
                     MessageBox.Show("Failed.");
                 }
                 isQuizGraded = true;
-                //  End Pass/Fail logic
             }   
             //  Prevent graded quiz from being graded again
             else if (isQuizGraded)
@@ -128,11 +124,6 @@ namespace Chapter_7_Excercise_1
             listBox1.Items.Clear();
             scoreBox.Text = "  Score:    __ / 20";
             isQuizGraded = false;
-        }
-
-        private void scoreBox_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
