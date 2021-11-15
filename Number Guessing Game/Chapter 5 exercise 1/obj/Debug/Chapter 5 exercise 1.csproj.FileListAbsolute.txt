@@ -1,0 +1,20 @@
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\bin\Debug\Chapter 5 exercise 1.exe.config
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\bin\Debug\Chapter 5 exercise 1.exe
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\bin\Debug\Chapter 5 exercise 1.pdb
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.csproj.AssemblyReference.cache
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter_5_exercise_1.Form1.resources
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter_5_exercise_1.Properties.Resources.resources
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.csproj.GenerateResource.cache
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.csproj.CoreCompileInputs.cache
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.exe
+D:\CIT 134\Chapter 5 exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.pdb
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\bin\Debug\Chapter 5 exercise 1.exe.config
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\bin\Debug\Chapter 5 exercise 1.exe
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\bin\Debug\Chapter 5 exercise 1.pdb
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.csproj.AssemblyReference.cache
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter_5_exercise_1.Form1.resources
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter_5_exercise_1.Properties.Resources.resources
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.csproj.GenerateResource.cache
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.exe
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 5 Exercises\Chapter 5 Exercise 1\Chapter 5 exercise 1\Chapter 5 exercise 1\obj\Debug\Chapter 5 exercise 1.pdb

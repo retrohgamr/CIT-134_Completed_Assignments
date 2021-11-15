@@ -1,0 +1,21 @@
+C:\Users\jakej\source\repos\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.exe.config
+C:\Users\jakej\source\repos\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.exe
+C:\Users\jakej\source\repos\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.pdb
+C:\Users\jakej\source\repos\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.csproj.AssemblyReference.cache
+C:\Users\jakej\source\repos\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\jakej\source\repos\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.exe
+C:\Users\jakej\source\repos\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.pdb
+E:\CIT 134\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.exe.config
+E:\CIT 134\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.exe
+E:\CIT 134\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.pdb
+E:\CIT 134\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.csproj.AssemblyReference.cache
+E:\CIT 134\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.csproj.CoreCompileInputs.cache
+E:\CIT 134\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.exe
+E:\CIT 134\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.pdb
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 6 Exercises (edited) (1)\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.exe.config
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 6 Exercises (edited) (1)\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.exe
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 6 Exercises (edited) (1)\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.pdb
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 6 Exercises (edited) (1)\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.csproj.AssemblyReference.cache
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 6 Exercises (edited) (1)\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 6 Exercises (edited) (1)\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.exe
+C:\Users\Jacob\Documents\School\CIT 134\Chapter 6 Exercises (edited) (1)\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.pdb
