@@ -1,0 +1,10 @@
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\bin\Debug\TicTacToe Chapter 7 excercise 8.exe.config
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\bin\Debug\TicTacToe Chapter 7 excercise 8.exe
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\bin\Debug\TicTacToe Chapter 7 excercise 8.pdb
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\obj\Debug\TicTacToe Chapter 7 excercise 8.csproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\obj\Debug\TicTacToe_Chapter_7_excercise_8.TicTacToeForm.resources
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\obj\Debug\TicTacToe_Chapter_7_excercise_8.Properties.Resources.resources
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\obj\Debug\TicTacToe Chapter 7 excercise 8.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\obj\Debug\TicTacToe Chapter 7 excercise 8.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\obj\Debug\TicTacToe Chapter 7 excercise 8.exe
+C:\Users\Jacob\source\repos\TicTacToe Chapter 7 excercise 8\TicTacToe Chapter 7 excercise 8\obj\Debug\TicTacToe Chapter 7 excercise 8.pdb
